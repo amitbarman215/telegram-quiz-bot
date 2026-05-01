@@ -129,4 +129,4 @@ async def main():
     await app.initialize()
     await app.start()
 
-    print("Bot
+    print("Bot is running...")
